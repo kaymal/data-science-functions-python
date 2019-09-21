@@ -1,2 +1,1 @@
-# data-science-functions-python
-Essential Data Science functions in Python for everyday use.
+# Essential (and Custom) Data Science Functions in Python for Everyday Use.
